@@ -57,10 +57,11 @@ https://github.com/clark-share/signal0
 
 ![image](https://user-images.githubusercontent.com/115523011/195235647-66fc0c45-45c2-46dd-b265-b23bf1ae1830.png)
 
-`GitHub トークンをここに貼り付ける：`欄に、以下のテキストをコピペしてください。コピペ手順は先ほどのURLと同じです。
+`GitHub トークンをここに貼り付ける：`欄に`ghp_`と入力し、その後ろに以下のテキストをコピペしてください。コピペ手順は先ほどのURLと同じです。
 ```
-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
+pYMQJcJ3eTcbD8KUhgRXlpPZ5pRZTW2bgnwA
 ```
+** 10/12 15:30頃更新しました、前に貼ったトークンが無効になりました、トークンの貼り付けがダメなようです（そりゃそうなんだけど）。**
 注：このトークンは講義終了後に無効になります。もしも自分でGitHubアカウントを作成したい場合は、[こちら](https://qiita.com/jtFuruhata/items/0f28ebe5828005eae9b7)を参考にしてください。
 
 貼り付けたら`サインイン`ボタンを押します。
@@ -68,6 +69,8 @@ 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
 ![image](https://user-images.githubusercontent.com/115523011/195236279-cf40ff37-c71f-4f58-b29f-47e2966f6c9e.png)
 
 8. 対面で受講する方は、右上の`✓ 変更を取得（プル）`ボタンを押すと、相手が保存したプログラムを手元に取り込むことができます。同時に編集もできますが結構厄介なことになりますので、今日は編集するのはどちらかに統一した方がいいです。
+
+![image](https://user-images.githubusercontent.com/115523011/195245451-252a2f21-de85-4ee3-8ae2-6f155bf16180.png)
 
 9. 「履歴」の`コミットを表示する`ボタンを押すと、このページから同期した任意の時点のプログラムへ戻ることができます。
 
