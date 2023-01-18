@@ -1,7 +1,7 @@
 # documents
-クラーク記念国際高等学校旭川キャンパス　「レゴで体験するロボットプログラミング」　講義資料
+2023年1月20日　江別市立野幌小学校　5年　プログラミング授業　講義資料
 
-[ここをクリックして講義資料を開いてください](https://github.com/clark-share/documents/raw/main/221013%E3%82%AF%E3%83%A9%E3%83%BC%E3%82%AF.pdf)
+<!-- [ここをクリックして講義資料を開いてください](https://github.com/clark-share/documents/raw/main/221013%E3%82%AF%E3%83%A9%E3%83%BC%E3%82%AF.pdf) -->
 
 ## プログラミングの前準備
 ※講義開始前に手順を追っておくとスムーズに進めることができます。
@@ -20,7 +20,7 @@
 
 4. 「プロジェクトのURLを開きます」ダイアログの`このプロジェクトのURLをコピーする。`欄に、以下のURLをコピペします。下のURL右端にある二重□ボタンを押すとコピーできますので、ダイアログのテキストボックスを選択してから`[Ctrl]`+`[V]`キーを押して貼り付けてください。
 ```
-https://github.com/clark-share/signal0
+https://github.com/jtlab-share/signal
 ```
 
 ![image](https://user-images.githubusercontent.com/115523011/195231979-b1b7aec6-5b55-47e4-acc9-07cd4e553145.png)
@@ -61,10 +61,8 @@ https://github.com/clark-share/signal0
 
 `GitHub トークンをここに貼り付ける：`欄に`ghp_`と入力し、その後ろに以下のテキストをコピペしてください。コピペ手順は先ほどのURLと同じです。
 ```
-pYMQJcJ3eTcbD8KUhgRXlpPZ5pRZTW2bgnwA
+(expired)
 ```
-** 10/12 15:30頃更新しました、前に貼ったトークンが無効になりました、トークンの貼り付けがダメなようです（そりゃそうなんだけど）。**
-注：このトークンは講義終了後に無効になります。もしも自分でGitHubアカウントを作成したい場合は、[こちら](https://qiita.com/jtFuruhata/items/0f28ebe5828005eae9b7)を参考にしてください。
 
 貼り付けたら`サインイン`ボタンを押します。
 
